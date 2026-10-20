@@ -6,11 +6,14 @@ This repository contains the complete landing page, 16–20 week syllabus, and c
 ---
 
 ## 🚀 Live Demo & Preview
-- **Interactive Web Landing Page**: Open [`index.html`](index.html) in any browser or serve locally via:
+- **🌐 Live Web Landing Page**: [https://himanshusar123.github.io/python-backend-genai-course/](https://himanshusar123.github.io/python-backend-genai-course/)
+- **📄 Formatted Word / Google Docs Document**: [`Python_Backend_GenAI_Course_Curriculum_Document.docx`](Python_Backend_GenAI_Course_Curriculum_Document.docx) *(Ready to open, upload, or import directly into Google Docs with full styling and tables preserved)*
+- **📖 Complete Detailed Curriculum (Markdown)**: Read [`PYTHON_BACKEND_GENAI_CURRICULUM_AND_WEBPAGE_CONTENT.md`](PYTHON_BACKEND_GENAI_CURRICULUM_AND_WEBPAGE_CONTENT.md) for full objectives, topic outlines, and hands-on assignments for all 15 modules.
+- **🖥️ Local Preview**:
   ```bash
   python -m http.server 8000
   ```
-- **Complete Detailed Curriculum**: Read [`PYTHON_BACKEND_GENAI_CURRICULUM_AND_WEBPAGE_CONTENT.md`](PYTHON_BACKEND_GENAI_CURRICULUM_AND_WEBPAGE_CONTENT.md) for full objectives, topic outlines, and hands-on assignments for all 15 modules.
+  Then open `http://localhost:8000` in any browser.
 
 ---
 
